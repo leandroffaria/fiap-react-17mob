@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb2c2c5e.chunk.css",
-    "main.js": "/static/js/main.67287ba5.chunk.js",
-    "main.js.map": "/static/js/main.67287ba5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.af8d32b8.chunk.js": "/static/js/2.af8d32b8.chunk.js",
-    "static/js/2.af8d32b8.chunk.js.map": "/static/js/2.af8d32b8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.91cea46fffc7d967d134c94742a8aebe.js": "/precache-manifest.91cea46fffc7d967d134c94742a8aebe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bb2c2c5e.chunk.css.map": "/static/css/main.bb2c2c5e.chunk.css.map"
+    "main.css": "/fiap-react-17mob/static/css/main.bb2c2c5e.chunk.css",
+    "main.js": "/fiap-react-17mob/static/js/main.f2e32132.chunk.js",
+    "main.js.map": "/fiap-react-17mob/static/js/main.f2e32132.chunk.js.map",
+    "runtime~main.js": "/fiap-react-17mob/static/js/runtime~main.2f6b26ef.js",
+    "runtime~main.js.map": "/fiap-react-17mob/static/js/runtime~main.2f6b26ef.js.map",
+    "static/js/2.af8d32b8.chunk.js": "/fiap-react-17mob/static/js/2.af8d32b8.chunk.js",
+    "static/js/2.af8d32b8.chunk.js.map": "/fiap-react-17mob/static/js/2.af8d32b8.chunk.js.map",
+    "index.html": "/fiap-react-17mob/index.html",
+    "precache-manifest.092e651fdcb91feafb21f2d2c8f7d4c8.js": "/fiap-react-17mob/precache-manifest.092e651fdcb91feafb21f2d2c8f7d4c8.js",
+    "service-worker.js": "/fiap-react-17mob/service-worker.js",
+    "static/css/main.bb2c2c5e.chunk.css.map": "/fiap-react-17mob/static/css/main.bb2c2c5e.chunk.css.map"
   }
 }
